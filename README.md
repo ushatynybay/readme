@@ -15,7 +15,9 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 npm run dev
 
 ### Required Installations:-
+``````
 npm install @mui/material @emotion/react @emotion/styled (for UI)
+``````
 npm install @react-router dom (for routings),
 npm install yup (for validations),
 npm install firebase (for Backend),
