@@ -18,15 +18,21 @@ npm run dev
 ``````
 npm install @mui/material @emotion/react @emotion/styled (for UI)
 ``````
+``````
 npm install @react-router dom (for routings),
+``````
+``````
 npm install yup (for validations),
+``````
+``````
 npm install firebase (for Backend),
+``````
 
 ### To build Application:-
 npm run build
 
 ### Git commands used:-
-git add. (for adding edited files),
-git commit -m ''(commit msg),
-git push -u origin <branch-name>
++ git add. (for adding edited files),
++ git commit -m ''(commit msg),
++ git push -u origin <branch-name>
 
