@@ -37,8 +37,8 @@ npm install firebase
 ``````
 
 ### Current Pages
-[Login Page](https://partner.sampark365.com/)
-[Registration Page](https://partner.sampark365.com/PartnerRegister)
++ [Login Page](https://partner.sampark365.com/)
++ [Registration Page](https://partner.sampark365.com/PartnerRegister)
 
 ### To build Application:-
 ``````
