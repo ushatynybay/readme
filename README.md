@@ -6,10 +6,10 @@ The Project is about willingness for Social service in some communities.
 The Project had Login Page at initial Stage, having Login Button , if the user does not have credentials, He can go for Registration Page. The Registration Page contains personal and organization details which User have to fill and submit.
 
 ### Technologies used:-
-React
-Vite
-TypeScript
-Firebase (As backend)
++ React
++ Vite
++ TypeScript
++ Firebase (As backend)
 
 ### To run Application:-
 npm run dev
