@@ -43,6 +43,24 @@ npm install yup
 npm install firebase
 ``````
 
+## Project Setup:-
+``````
+my-react-component-project/
+├── src/
+│   ├── components/
+│   │   ├── MyComponent/
+│   │   │   ├── MyComponent.js
+│   │   │   ├── MyComponent.css
+│   │   │   └── index.js
+│   ├── App.js
+│   ├── index.js
+├── public/
+│   ├── index.html
+├── package.json
+├── README.md
+
+``````
+
 ## Current Pages
 + [Login Page](https://partner.sampark365.com/)
 + [Registration Page](https://partner.sampark365.com/PartnerRegister)
