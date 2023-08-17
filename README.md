@@ -47,14 +47,22 @@ npm install firebase
 ``````
 my-react-component-project/
 ├── src/
-│   ├── components/
-│   │   ├── MyComponent/
-|   |   |   |`-`
-│   │   │   ├── MyComponent.js
-│   │   │   ├── MyComponent.css
-│   │   │   └── index.js
-│   ├── App.js
-│   ├── index.js
+|   ├── assets
+|   |     ├── logo.png
+|   |     ├── logomain.jpg
+|   |     ├── mainImage.png
+│   ├── components
+│   │     |
+|   |     ├── UserLogin
+|   |     |      ├── UserLogin.tsx
+|   |     |      ├── UserLoginStyles.tsx
+│   │     ├── UserRegistration
+|   |     |       ├── UserRegistration.tsx
+|   |     |       ├── UserRegistrationStyles.tsx
+|   ├── config 
+|   |     ├── firebase.ts  
+│   ├── App.tsx
+│   ├── main.tsx
 ├── public/
 │   ├── index.html
 ├── package.json
