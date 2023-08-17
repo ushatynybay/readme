@@ -13,7 +13,7 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 ### Table of Contents:-
 - [Introduction](#introduction)
 - [Installations](#Installations)
-- [Technologies used](#technologies-used)
+- [Technologies used](#Technologies used)
 
 
 ## Installations:-
@@ -33,7 +33,7 @@ Welcome to the Project Name documentation. This section provides an overview of 
 
 
 
-### Installations:-
+<!-- ### Installations:-
 + For UI
 ``````
 npm install @mui/material @emotion/react @emotion/styled 
@@ -49,7 +49,7 @@ npm install yup
 + For Backend
 ``````
 npm install firebase
-``````
+`````` -->
 
 ### Current Pages
 + [Login Page](https://partner.sampark365.com/)
