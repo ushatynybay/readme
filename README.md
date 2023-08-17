@@ -45,20 +45,19 @@ npm install firebase
 
 ## Project Setup:-
 ``````
-my-react-component-project/
+Sampartbharti-User
 ├── src/
 |   ├── assets
 |   |     ├── logo.png
 |   |     ├── logomain.jpg
 |   |     ├── mainImage.png
 │   ├── components
-│   │     |
 |   |     ├── UserLogin
 |   |     |      ├── UserLogin.tsx
 |   |     |      ├── UserLoginStyles.tsx
 │   │     ├── UserRegistration
-|   |     |       ├── UserRegistration.tsx
-|   |     |       ├── UserRegistrationStyles.tsx
+|   |     |      ├── UserRegistration.tsx
+|   |     |      ├── UserRegistrationStyles.tsx
 |   ├── config 
 |   |     ├── firebase.ts  
 │   ├── App.tsx
