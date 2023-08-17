@@ -15,7 +15,7 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 - [Installations](#installations)
 - [Technologies Used](#technologies-used)
 - [Current Pages](#current-pages)
-- [Build and Run](#to-build-Application)
+- [Build and Run](#build-and-run)
 - [Git Commands Used](#git-commands-used)
 
 
@@ -25,7 +25,7 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 3. Install dependencies: `````` npm install ``````
 
 
-## Technologies used:-
+## Technologies Used {#technologies-used}
 + For UI
 ``````
 npm install @mui/material @emotion/react @emotion/styled 
@@ -47,17 +47,17 @@ npm install firebase
 + [Login Page](https://partner.sampark365.com/)
 + [Registration Page](https://partner.sampark365.com/PartnerRegister)
 
-## To build Application:-
+## Build and Run {#build-and-run}
 ``````
 npm run build
 ``````
 
-## To run Application:-
+
 ``````
 npm run dev
 ``````
 
-## Git commands used:-
+## Git Commands Used {#git-commands-used}
 + git add. (for adding edited files),
 + git commit -m ''(commit msg),
 + git push -u origin <branch-name> (for pushing code to Git)
