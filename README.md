@@ -49,6 +49,7 @@ my-react-component-project/
 ├── src/
 │   ├── components/
 │   │   ├── MyComponent/
+|   |   |   |`-`
 │   │   │   ├── MyComponent.js
 │   │   │   ├── MyComponent.css
 │   │   │   └── index.js
