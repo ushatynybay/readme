@@ -10,22 +10,22 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 
 
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Installations](#installations)
 - [Technologies Used](#technologies-used)
 - [Current Pages](#current-pages)
-- [Build and Run](#build-and-run)
-- [Git Commands Used](#git-commands-used)
+- [Build and Run](#to-build-Application)
+- [Git Commands Used](#git-commands-used) -->
 
 
 ## Installations:-
 1. Clone repository: ``````https://github.com/ushatynybay/readme.git``````
-2. Navigate to the project directory: `````` cd your-project ``````
+2. Navigate to the project directory: `````` cd Samparkbharti-User ``````
 3. Install dependencies: `````` npm install ``````
 
 
-## Technologies Used {#technologies-used}
+## Technologies used:-
 + For UI
 ``````
 npm install @mui/material @emotion/react @emotion/styled 
@@ -47,18 +47,28 @@ npm install firebase
 + [Login Page](https://partner.sampark365.com/)
 + [Registration Page](https://partner.sampark365.com/PartnerRegister)
 
-## Build and Run {#build-and-run}
+## Upcoming Pages:-
++ Forget-Password page
++ Reset-Password Page
++ A page after Sucessful Login
+
+## To build Application:-
 ``````
 npm run build
 ``````
 
-
+## To run Application:-
 ``````
 npm run dev
 ``````
 
-## Git Commands Used {#git-commands-used}
+## Git commands used:-
 + git add. (for adding edited files),
 + git commit -m ''(commit msg),
 + git push -u origin <branch-name> (for pushing code to Git)
 
+## Contributing:-
+Usha Jakka : ushatynybay
+
+## Contact:-
+Email: usha.jakka@tynybay.com
