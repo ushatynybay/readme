@@ -15,7 +15,7 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 - [Installations](#installations)
 - [Technologies Used](#technologies-used)
 - [Current Pages](#current-pages)
-- [Build and Run](#build-and-run)
+- [Build and Run](#to-build-Application)
 - [Git Commands Used](#git-commands-used)
 
 
