@@ -5,14 +5,10 @@ Samparkbharti-User.
 The Project is about willingness for Social service in some communities.
 The Project had Login Page at initial Stage, having Login Button , if the user does not have credentials, He can go for Registration Page. The Registration Page contains personal and organization details which User have to fill and submit.
 
-### Technologies used {#technologies-used}
-### Installations {#Installations}
-
-
 
 ### Table of Contents:-
-- [Installations](#Installations)
-- [Technologies used](#technologies-used)
+- [Installations](### Installations:-)
+- [Technologies used](### Technologies used:-)
 
 
 <!-- ### Cloned repository:-
@@ -21,10 +17,7 @@ https://github.com/ushatynybay/readme.git
 `````` -->
 
 ### Installations:-
-1. Clone repository:
- ``````
-https://github.com/ushatynybay/readme.git
-``````
+1. Clone repository: ``````https://github.com/ushatynybay/readme.git``````
 2. Navigate to the project directory: `````` cd your-project ``````
 3. Install dependencies: `````` npm install ``````
 
