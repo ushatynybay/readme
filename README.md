@@ -10,23 +10,14 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 
 
 
-### Table of Contents:-
-- [Introduction](#introduction)
+## Table of Contents
+
 - [Installations](#installations)
-- [Technologies used](#technologies-used)
+- [Technologies Used](#technologies-used)
+- [Current Pages](#current-pages)
+- [Build and Run](#build-and-run)
+- [Git Commands Used](#git-commands-used)
 
-
-
-
-## Technologies used:-
-+ React
-+ Vite
-+ TypeScript
-+ Firebase (As backend)
-
-## Introduction
-
-Welcome to the Project Name documentation. This section provides an overview of the project.
 
 ## Installations:-
 1. Clone repository: ``````https://github.com/ushatynybay/readme.git``````
@@ -34,8 +25,7 @@ Welcome to the Project Name documentation. This section provides an overview of 
 3. Install dependencies: `````` npm install ``````
 
 
-
-<!-- ### Installations:-
+## Technologies used:-
 + For UI
 ``````
 npm install @mui/material @emotion/react @emotion/styled 
@@ -51,24 +41,24 @@ npm install yup
 + For Backend
 ``````
 npm install firebase
-`````` -->
+``````
 
-### Current Pages
+## Current Pages
 + [Login Page](https://partner.sampark365.com/)
 + [Registration Page](https://partner.sampark365.com/PartnerRegister)
 
-### To build Application:-
+## To build Application:-
 ``````
 npm run build
 ``````
 
-### To run Application:-
+## To run Application:-
 ``````
 npm run dev
 ``````
 
-### Git commands used:-
+## Git commands used:-
 + git add. (for adding edited files),
 + git commit -m ''(commit msg),
-+ git push -u origin <branch-name>
++ git push -u origin <branch-name> (for pushing code to Git)
 
