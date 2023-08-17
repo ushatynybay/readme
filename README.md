@@ -12,14 +12,11 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 
 ### Table of Contents:-
 - [Introduction](#introduction)
-- [Installations](#Installations)
-- [Technologies used](#Technologies used)
+- [Installations](#installations)
+- [Technologies used](#technologies-used)
 
 
-## Installations:-
-1. Clone repository: ``````https://github.com/ushatynybay/readme.git``````
-2. Navigate to the project directory: `````` cd your-project ``````
-3. Install dependencies: `````` npm install ``````
+
 
 ## Technologies used:-
 + React
@@ -30,6 +27,11 @@ The Project had Login Page at initial Stage, having Login Button , if the user d
 ## Introduction
 
 Welcome to the Project Name documentation. This section provides an overview of the project.
+
+## Installations:-
+1. Clone repository: ``````https://github.com/ushatynybay/readme.git``````
+2. Navigate to the project directory: `````` cd your-project ``````
+3. Install dependencies: `````` npm install ``````
 
 
 
